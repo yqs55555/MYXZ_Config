@@ -1,0 +1,8 @@
+<Equipment Name="扳指" ID="040006" Sprite="070020">
+  <ItemDescription>寻常饰物</ItemDescription>
+  <UseDescription>生命+40</UseDescription>
+  <Type>Ornament</Type>
+  <HP>40</HP>
+  <SalePrice>30</SalePrice>
+  <BuyPrice>100</BuyPrice>
+</Equipment>

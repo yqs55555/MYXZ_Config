@@ -1,0 +1,7 @@
+<Achievement Name="天道长青" Id="080002" Publisher="010000" Deliverer="010000">
+  <Description>以捍天道，万古长青</Description>
+  <FinishAchievementReward Experience="400" Money="0/0/300"></FinishAchievementReward>
+  <Target>
+    <T1 Type="Find" Id="010012,010013,010014,010015,010016" Count="1"></T1>
+  </Target>
+</Achievement>

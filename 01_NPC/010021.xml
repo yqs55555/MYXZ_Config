@@ -1,0 +1,9 @@
+<NPC Name="黎忧" Id="010021" Sprite="070016">
+  <Talk>
+    <Words Speaker="010011">请问姑娘可是杏林堂的人？</Words>
+	<Words Speaker="010021">嗯？杏林堂黎大夫正是家父，请问你是？</Words>
+	<Words Speaker="010011">在下是雾隐山 天青观弟子清淼，受黎大夫和家师所托前来除妖。</Words>
+	<Words Speaker="010011">现下，妖兽已除，黎姑娘和在下先回杏林堂吧。</Words>
+	<Words Speaker="010021">谢谢，那就有劳公子了。</Words>
+  </Talk>
+</NPC>

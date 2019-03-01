@@ -1,0 +1,7 @@
+<Achievement Name="序章 入红尘" Id="080001" Publisher="010000" Deliverer="010000">
+  <Description>恰少年，别天青，入红尘</Description>
+  <FinishAchievementReward Experience="400" Money="0/0/300"></FinishAchievementReward>
+  <Target>
+    <T4 Type="FinishTask" Id="050001,050002"></T4>
+  </Target>
+</Achievement>

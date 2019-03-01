@@ -1,0 +1,9 @@
+<Equipment Name="布靴" ID="040004" Sprite="070012" Level="10">
+  <ItemDescription>寻常布靴，朴实耐穿</ItemDescription>
+  <UseDescription>物理防御+15 法术防御+20</UseDescription>
+  <Type>Shoes</Type>
+  <PhysicalDefense>15</PhysicalDefense>
+  <MagicDefense>20</MagicDefense>
+  <SalePrice>30</SalePrice>
+  <BuyPrice>100</BuyPrice>
+</Equipment>

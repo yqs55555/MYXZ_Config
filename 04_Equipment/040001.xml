@@ -1,0 +1,7 @@
+<Equipment Name="望月" ID="040001" Sprite="070005" Level="10">
+  <ItemDescription>望月怀思，以念长青</ItemDescription>
+  <UseDescription>物理攻击+20 法术攻击+50</UseDescription>
+  <Type>Weapon</Type>
+  <PhysicalAttack>20</PhysicalAttack>
+  <MagicAttack>50</MagicAttack>
+</Equipment>

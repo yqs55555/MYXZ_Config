@@ -1,0 +1,5 @@
+<Material Name="草药" ID="100001" Sprite="070014">
+	<ItemDescription>性喜阴，其貌不扬，可用于合成金创药</ItemDescription>
+	<SalePrice>4</SalePrice>
+	<BuyPrice>10</BuyPrice>
+</Material>

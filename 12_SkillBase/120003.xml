@@ -1,0 +1,10 @@
+<SkillBase Id="120002">
+  <AttackArea Mode="Rect" Width="3" Length="5">
+  </AttackArea>
+  <Damage Type="PhysicalAttack">
+    PhysicalAttack*1.1+10
+  </Damage>
+  <Animation Name="2HitComboClawsAttack">
+  </Animation>
+  <SkillTime>1.2</SkillTime>
+</SkillBase>

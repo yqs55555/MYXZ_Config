@@ -1,0 +1,7 @@
+<Achievement Name="药铺小童" Id="080003" Publisher="010000" Deliverer="010000">
+  <Description>嘘！</Description>
+  <FinishAchievementReward Experience="500" Money="0/0/400"></FinishAchievementReward>
+  <Target>
+    <T1 Type="Find" Id="010020" Count="1"></T1>
+  </Target>
+</Achievement>

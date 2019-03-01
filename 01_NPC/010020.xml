@@ -1,0 +1,5 @@
+<NPC Name="小童" Id="010020" Sprite="070015">
+  <Talk>
+    <Words Speaker="010020">嘘！大哥哥别和我说话哟。别让我被黎大夫发现了，我先睡一会，嘻嘻~~~</Words>
+  </Talk>
+</NPC>

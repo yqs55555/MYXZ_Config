@@ -1,0 +1,9 @@
+<Equipment Name="布袍" ID="040003" Sprite="070008" Level="10">
+  <ItemDescription>寻常人家的布袍，样式简单</ItemDescription>
+  <UseDescription>生命+55 法术防御+10</UseDescription>
+  <Type>Clothes</Type>
+  <HP>55</HP>
+  <MagicDefense>10</MagicDefense>
+  <SalePrice>30</SalePrice>
+  <BuyPrice>100</BuyPrice>
+</Equipment>

@@ -1,0 +1,43 @@
+<Setting>
+  <!--Chunk区间左闭右开，即50是为0~49-->
+  <Type>
+    <Row Id="01" Type="NPC"></Row>
+    <Row Id="02" Type="Monster"></Row>
+    <Row Id="03" Type="Consumable"></Row>
+    <Row Id="04" Type="Equipment"></Row>
+    <Row Id="05" Type="Task"></Row>
+    <Row Id="06" Type="Scene"></Row>
+    <Row Id="07" Type="Sprite"></Row>
+    <Row Id="08" Type="Achievement"></Row>
+    <Row Id="09" Type="TaskItem"></Row>
+    <Row Id="10" Type="Material"></Row>
+    <Row Id="11" Type="SkillTree"></Row>
+    <Row Id="12" Type="SkillBase"></Row>
+  </Type>
+  <AssetBundlePath>
+    <Row Type="UI" Path="config/ui"></Row>
+    <Row Type="NPC" Path="config/npc"></Row>
+    <Row Type="Monster" Path="undefined"></Row>
+    <Row Type="Consumable" Path="config/item"></Row>
+    <Row Type="Equipment" Path="config/item"></Row>
+    <Row Type="Task" Path="config/task"></Row>
+    <Row Type="Scene" Path="config/scene"></Row>
+    <Row Type="Sprite" Path="sprite">
+	    <Chunk>50</Chunk>
+	</Row>
+    <Row Type="Achievement" Path="config/achv"></Row>
+    <Row Type="TaskItem" Path="config/item"></Row>
+    <Row Type="Material" Path="config/item"></Row>
+    <Row Type="SkillTree" Path="config/skill"></Row>
+    <Row Type="SkillBase" Path="config/skill"></Row>
+  </AssetBundlePath>
+  <Save>
+	<FolderPath>../Save</FolderPath>
+  </Save>
+  <AOI>
+	<GridField>10</GridField>
+	<UpdateRate>0.05</UpdateRate>
+	<PlayerInterestRadius>3</PlayerInterestRadius>
+	<NPCInterstRadius>2</NPCInterstRadius>
+  </AOI>
+</Setting>

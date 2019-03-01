@@ -1,0 +1,8 @@
+<Equipment Name="平安结" ID="040005" Sprite="070019">
+  <ItemDescription>寻常人家祈福平安之物</ItemDescription>
+  <UseDescription>生命+50</UseDescription>
+  <Type>Ornament</Type>
+  <HP>50</HP>
+  <SalePrice>30</SalePrice>
+  <BuyPrice>100</BuyPrice>
+</Equipment>

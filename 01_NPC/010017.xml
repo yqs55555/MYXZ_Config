@@ -1,0 +1,6 @@
+<NPC Name="阿立" Id="010017" Sprite="070009">
+  <Task Id="050003"></Task>
+  <Talk>
+    <Words Speaker="010017">阿爹阿妈常告诉我，“黎伯伯的杏林堂，取自‘杏林春满’，但这四个字是什么意思啊？”</Words>
+  </Talk>
+</NPC>

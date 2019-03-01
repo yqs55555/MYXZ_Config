@@ -1,0 +1,10 @@
+<CommonAttack Loop="true" Name="普通攻击">
+    <Condition>
+        <SkillBase Id="120001">
+        </SkillBase>
+        <SkillBase Id="120002">
+        </SkillBase>
+    </Condition>
+    <SkillBase Id="120001">
+    </SkillBase>
+</CommonAttack>

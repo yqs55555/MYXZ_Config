@@ -1,0 +1,21 @@
+<Task Name="问道杏林" Id="050003" Publisher="010017" Deliverer="010018">
+  <Require Predecessors="050002" Level="-1" Item="090001/1"></Require>
+  <Description>“杏林”二字，饱含着镇民对黎傲的感激与敬意。</Description>
+  <TakeTaskReward Experience="0" Money="0/0/0"></TakeTaskReward>
+  <FinishTaskReward Experience="300" Money="0/0/200">040004/1,100001/9</FinishTaskReward>
+  <Target>
+    <T1 Type="Find" Id="010018" Count="1"></T1>
+  </Target>
+  <TakeTask>
+    <Words Speaker="010011">小友，请问凤鸣镇的杏林堂怎么走？</Words>
+	<Words Speaker="010017">大哥哥，你也是来寻医的吗？黎伯伯的医术很好的，接着往前走，遇到的第一个大房子就是啦。</Words>
+	<Words Speaker="010011">谢谢小友，但我是来寻人的，并不是寻医。</Words>
+	<Words Speaker="010017">大哥哥，不客气哟。</Words>
+  </TakeTask>
+  <InTask>
+    <Words Speaker="010017">不过寻人和寻医有什么不一样的吗黎伯伯的确是大夫啊，寻他不就是寻医吗？大哥哥为什么说有区别呢？</Words>
+  </InTask>
+  <FinishTask>
+    <Words Speaker="010018">天地之间，唯人为贵，人之所贵，莫过于生。</Words>  
+  </FinishTask>
+</Task>

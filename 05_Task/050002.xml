@@ -1,0 +1,25 @@
+<Task Name="下山历练" Id="050002" Publisher="010013" Deliverer="010000">
+  <Require Predecessors="050001" Level="-1" Item=""></Require>
+  <Description>循天青之规，下山历练；报早年之恩，前往苗疆。</Description>
+  <TakeTaskReward Experience="0" Money="0/0/0">040001/1,090001/1</TakeTaskReward>
+  <FinishTaskReward Experience="300" Money="0/0/200">040003/1</FinishTaskReward>
+  <Target>
+    <T2 Type="Arrive" Id="060002" Count="1"></T2>
+  </Target>
+  <TakeTask>
+    <Words Speaker="010011">弟子清淼，参见师父。</Words>
+	<Words Speaker="010013">徒儿可知，为师唤你前来，所为何事吗？</Words>
+	<Words Speaker="010011">弟子今年已二十有余，按照道规，应当下山历练了。</Words>
+	<Words Speaker="010013">此为一故，然还有一故。</Words>
+	<Words Speaker="010013">昨日，为师收到了一封故人之信。此人名为黎傲，是当世苗疆有名的医仙，早年有恩于我。此番，他遇到了麻烦，疑有鬼魅作祟，因此求助于为师。</Words>
+    <Words Speaker="010013">但.....</Words>
+    <Words Speaker="010011">弟子知道了，下山后，会先去苗疆一地，还望师父放心，弟子一定不辱师门。</Words>
+	<Words Speaker="010013">其实说来，徒儿你是同辈弟子中资质最好的，但毕竟是第一次下山，一切小心。</Words>
+	<Words Speaker="010013">这把剑为师赠与你，另外这封书信，你收好，到苗疆凤鸣镇寻杏林堂，当面交给黎大夫即可。</Words>
+	<Words Speaker="010011">遵命，还望师父保重身体，徒儿拜别。</Words>
+  </TakeTask>
+  <InTask>
+    <Words Speaker="010013">天青一脉，向来注重同门之情，想来清淼下山前也会去和他们告别吧。</Words>
+	<Words Speaker="010013">但愿徒儿此行，能控制住凤鸣镇的局势。</Words>
+  </InTask>
+</Task>

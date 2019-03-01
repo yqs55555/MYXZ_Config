@@ -1,0 +1,6 @@
+<NPC Name="玄一道长" Id="010013" Sprite="070003">
+  <Task Id="050002"></Task>
+  <Talk>
+    <Words Speaker="010013">希望徒儿此行一切顺利。</Words>
+  </Talk>
+</NPC>

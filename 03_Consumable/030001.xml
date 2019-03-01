@@ -1,0 +1,7 @@
+<Consumable Name="金创药" ID="030001" Sprite="070011">
+  <ItemDescription>道门丹药，服之有凝神养气之效</ItemDescription>
+  <UseDescription>单人恢复少量气血</UseDescription>
+  <HP>100</HP>
+  <SalePrice>20</SalePrice>
+  <BuyPrice>50</BuyPrice>
+</Consumable>

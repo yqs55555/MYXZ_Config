@@ -1,0 +1,18 @@
+<Task Name="师父传唤" Id="050001" Publisher="010012" Deliverer="010013">
+  <Require Predecessors="" Level="-1" Item=""></Require>
+  <Description>清淼早起修行时，遇见了清恩，清恩叫住了他......</Description>
+  <TakeTaskReward Experience="0" Money="0/0/0"></TakeTaskReward>
+  <FinishTaskReward  Experience="200" Money="0/0/100">040002/1</FinishTaskReward>
+  <Target>
+    <T1 Type="Find" Id="010013" Count="1"></T1>
+  </Target>
+  <TakeTask>
+    <Words Speaker="010012">清淼师兄，师父有命，让你卯时到东方天台处。</Words>
+    <Words Speaker="010011">好的，我知道了。</Words>
+    <Words Speaker="010012">师兄，若无事，我先去修行了。</Words>
+    <Words Speaker="010011">劳烦师弟告知。</Words>
+  </TakeTask>
+  <InTask>
+    <Words Speaker="010012">师父常说，“修行之意贵在‘不负三光不负人，只种心田养此身’”。</Words>
+  </InTask>
+</Task>

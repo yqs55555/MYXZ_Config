@@ -1,0 +1,10 @@
+<Config>
+  <Row Id="UI" Path="config/ui"></Row>
+  <Row Id="NPC" Path="config/npc"></Row>
+  <Row Id="Task" Path="config/task"></Row>
+  <Row Id="Item" Path="config/item"></Row>
+  <Row Id="Achievement" Path="config/achv"></Row>
+  <Row Id="Skill" Path="config/skill"></Row>
+  <Row Id="ItemSprite" Path="sprite/item"></Row>
+  <Row Id="HeadSprite" Path="sprite/head"></Row>
+</Config>

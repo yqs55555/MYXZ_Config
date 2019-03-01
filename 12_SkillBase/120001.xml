@@ -1,0 +1,10 @@
+<SkillBase Id="120001">
+  <AttackArea Mode="Point" MinDistance="0" MaxDistance="100" Angle="360">
+  </AttackArea>
+  <Damage Type="PhysicalAttack">
+    PhysicalAttack*1.1
+  </Damage>
+  <Animation Name="BW_Attack00">
+  </Animation>
+  <SkillTime>0.5</SkillTime>
+</SkillBase>

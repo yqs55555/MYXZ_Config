@@ -1,0 +1,4 @@
+<CommonAttack Loop="true" Name="普通攻击">
+  <SkillBase Id="120003">
+  </SkillBase>
+</CommonAttack>

@@ -1,0 +1,9 @@
+<Equipment Name="布巾" ID="040002" Sprite="070004" Level="10">
+  <ItemDescription>寻常布巾，用于简单束发</ItemDescription>
+  <UseDescription>生命+45 物理防御+15</UseDescription>
+  <Type>Hat</Type>
+  <HP>45</HP>
+  <PhysicalDefense>15</PhysicalDefense>
+  <SalePrice>30</SalePrice>
+  <BuyPrice>100</BuyPrice>
+</Equipment>

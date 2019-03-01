@@ -1,0 +1,8 @@
+<NPC Name="苗老伯" Id="010019" Sprite="070013">
+  <Talk>
+    <Words Speaker="010019">小伙子，看你面生，你可千万别再往前面走了，前面有很多妖兽的。</Words>
+	<Words Speaker="010011">老伯，还望放心，我就是来除去这些妖兽的。</Words>
+	<Words Speaker="010019">你？年轻人，咳咳咳，有勇气是好的，但可别逞一时之勇，丢了性命呀！</Words>
+	<Words Speaker="010011">多谢老伯告诫，但还望放心。</Words>
+  </Talk>
+</NPC>

@@ -1,0 +1,6 @@
+<NPC Name="猎户" Id="010023" Sprite="070017">
+  <Talk>
+    <Words Speaker="010011">妖兽已除，你们可以回家了。</Words>
+	  <Words Speaker="010023">谢谢。</Words>
+  </Talk>
+</NPC>

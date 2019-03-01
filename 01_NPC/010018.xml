@@ -1,0 +1,6 @@
+<NPC Name="黎傲" Id="010018" Sprite="070010">
+  <Task Id="050004"></Task>
+  <Talk>
+    <Words Speaker="010018">天地之间，唯人为贵，人之所贵，莫过于生。</Words>
+  </Talk>
+</NPC>

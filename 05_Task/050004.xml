@@ -1,0 +1,35 @@
+<Task Name="凤鸣之危" Id="050004" Publisher="010018" Deliverer="010000">
+  <Require Predecessors="050003" Level="-1" Item=""></Require>
+  <Description>消灭村镇西面的妖兽，解救受困的村民。</Description>
+  <TakeTaskReward Experience="0" Money="0/0/0">030001/5</TakeTaskReward>
+  <FinishTaskReward Experience="300" Money="0/0/200">040005/1,040006/1</FinishTaskReward>
+  <Target>
+    <T2 Type="Find" Id="010021,010022,010023,010024" Count="1"></T2>
+  </Target>
+  <TakeTask>
+    <Words Speaker="010011">请问您是黎傲黎大夫吗？</Words>
+	<Words Speaker="010018">我是黎傲，不知小兄弟你是？</Words>
+	<Words Speaker="010011">黎大夫，晚辈是天青观弟子清淼，这封书信是家师托晚辈转交给您的。</Words>
+	<Words Speaker="010011">师父本想亲自前来，应好友所托，但无奈前些时候，师父外出时因故受伤......</Words>
+    <Words Speaker="010011">山中其他师兄，师姐尚在外修行，临时传召怕延误了时日，因此让弟子先行前来相助于您。</Words>
+	<Words Speaker="010018">受伤？！伤势有无大碍,此事你师父为何不曾告诉于我？</Words>
+	<Words Speaker="010011">还望黎大夫放心，师父伤势已无大碍，但仍需静养。</Words>
+	<Words Speaker="010011">师父不曾告诉师叔......想来定是怕您担忧。不知黎大夫您可否将详情告知弟子？</Words>
+	<Words Speaker="010018">已无大碍，没事就好，没事就好......</Words>
+	<Words Speaker="010011">黎大夫，大夫，不知可否将事件的详情告知弟子？</Words>
+	<Words Speaker="010018">嗯，好，那是自然。</Words>
+	<Words Speaker="010018">事情得从两个月前说起。当时正值入秋，此地多秋雨，寻常时节，雨只是连绵，但今年的雨水格外丰足，且伴有雷鸣之势。</Words>
+	<Words Speaker="010018">起初，镇上的人都认为是冲撞了神灵，便自发前往村镇附近的神殿祭祀祈福。</Words>
+	<Words Speaker="010018">接连祭祀了半月之久，天气终于恢复了正常，村里人也就慢慢淡忘了。</Words>
+	<Words Speaker="010018">可不曾想几日前，不知从哪里来的妖兽盘踞于村镇的西面，占据了要道，断绝了几个村子间的来往。</Words>
+	<Words Speaker="010018">村镇人曾经拿着弓弩，试图赶走妖兽，但无奈妖兽众多......</Words>
+	<Words Speaker="010018">眼看受困村落即将无粮可食，再加上我女儿也因外出采药，也受困于......</Words>
+	<Words Speaker="010018">我所知晓的能人，唯有早年便相识的玄一道长，故只能.....</Words>
+	<Words Speaker="010018">清淼小兄弟，求求你一定要救回受困的村民和我女儿啊！</Words>
+	<Words Speaker="010011">黎大夫，您言重了，晚辈一定竭尽全力。</Words>
+	<Words Speaker="010018">这是我之前准备的金创药，你一并带上，一切就拜托你了。</Words>
+  </TakeTask>
+  <InTask>
+    <Words Speaker="010018">不知黎忧是否安好？</Words>
+  </InTask>
+</Task>
