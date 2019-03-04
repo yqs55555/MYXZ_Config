@@ -23,8 +23,8 @@
     <Row Type="Task" Path="config/task"></Row>
     <Row Type="Scene" Path="config/scene"></Row>
     <Row Type="Sprite" Path="sprite">
-	    <Chunk>50</Chunk>
-	</Row>
+      <Chunk>50</Chunk>
+    </Row>
     <Row Type="Achievement" Path="config/achv"></Row>
     <Row Type="TaskItem" Path="config/item"></Row>
     <Row Type="Material" Path="config/item"></Row>
@@ -32,12 +32,12 @@
     <Row Type="SkillBase" Path="config/skill"></Row>
   </AssetBundlePath>
   <Save>
-	<FolderPath>../Save</FolderPath>
+    <FolderPath>../Save</FolderPath>
   </Save>
   <AOI>
-	<GridField>10</GridField>
-	<UpdateRate>0.05</UpdateRate>
-	<PlayerInterestRadius>3</PlayerInterestRadius>
-	<NPCInterstRadius>2</NPCInterstRadius>
+    <GridField>10</GridField>
+    <UpdateRate>0.05</UpdateRate>
+    <PlayerInterestRadius>3</PlayerInterestRadius>
+    <NPCInterstRadius>2</NPCInterstRadius>
   </AOI>
 </Setting>
